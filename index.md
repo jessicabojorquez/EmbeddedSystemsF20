@@ -1,5 +1,5 @@
-## ECE M202A/CS M213A Embedded Systems Final Project
-## Customizable Gesture Based Assistive Control System for Personal Computers
+Andrew Ho, Tu Yu Hsien, Jessica Bojorquez
+
 
 ### 1. Abstract
 A new gesture based embedded system is proposed that acts as an alternative assistive input for personal computers (PCs). The sensor inputs from a web camera and Arduino are collected by a Raspberry Pi, where image recognition and data processing is performed in real time, and corresponding events are sent to the PC wirelessly to realize with minimal delay. This system is a standalone device that consists of the Raspberry Pi, Arduino and a web camera as aforementioned, and includes BLE and Wi-Fi connectivity. On the PC side, users are able to specify the mapping of specific functionalities and keystrokes to the recognized gestures, allowing for customization based on their preferences and common actions. Although similar systems have been implemented before, the novelties in the system proposed are the use of video for gesture input instead of ultrasonic data, the customizability of control tailored to each user, and the portability of the wireless device.
